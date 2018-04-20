@@ -1,0 +1,6 @@
+{
+    "require": {
+        "google/apiclient": "^2.2",
+        "slim/slim": "^3.0"
+    }
+}
